@@ -26,11 +26,9 @@ A simple Android version of [Fabflix](https://github.com/mingwandowski/Fabflix)
 ## Demonstration
 
 <img src="materials/login.png" width = "400" alt="login" align=left />
-
 <img src="materials/search.png" width = "400" alt="search" align=right />
 
 <br><br>
 
 <img src="materials/movie-list.png" width = "400" alt="movie list" align=left />
-
 <img src="materials/single-movie.png" width = "400" alt="single movie" align=right />
